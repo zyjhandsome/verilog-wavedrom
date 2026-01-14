@@ -1,0 +1,101 @@
+{
+  "summary": {
+    "total": 10,
+    "successful": 0,
+    "partial": 0,
+    "errors": 10,
+    "success_rate": 0.0
+  },
+  "results": [
+    {
+      "sample_name": "sample_1",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_2",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_3",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_4",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_5",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_6",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_7",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_8",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_9",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    },
+    {
+      "sample_name": "sample_10",
+      "ocr_signals": [],
+      "generated_signals": [],
+      "matched_signals": 0,
+      "order_match": false,
+      "success": false,
+      "error": "Generated JSON not found"
+    }
+  ]
+}

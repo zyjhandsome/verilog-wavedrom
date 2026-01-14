@@ -1,0 +1,1 @@
+{"signal": [{"name": "m_axi_aresetn", "wave": "0................................."}, {"name": "m_axi_awid[0:0]", "wave": "z................................."}], "config": {"hscale": 2}, "head": {"text": "Timing Diagram", "tick": 0}, "foot": {"text": "Cycle numbers", "tick": 0}}
